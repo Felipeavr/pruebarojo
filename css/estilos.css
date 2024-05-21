@@ -14,7 +14,12 @@
     overflow: hidden;
 }
 
+button.btn.btn-primary {
 
+    margin-top: 15%;
+    margin-left: 50%;
+    left: -70px;
+}
 
 .cycle-slideshow {
     width: 100%;
